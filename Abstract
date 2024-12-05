@@ -1,12 +1,12 @@
 Abstract : 
-This paper presents details of Air Canvas project. In recent years, one of the most fascinating and challenging
+This paper presents details of the Air Canvas project. In recent years, one of the most fascinating and challenging
 research areas in the fields of image processing and pattern recognition has been writing in the air. It makes a significant contribution
 to the development of an automated process and can enhance the interface between a machine and a human in a variety of
 applications. Numerous studies have concentrated on new methods and techniques that would speed up recognition while reducing
 processing time. Within the discipline of computer vision, object tracking is regarded as a crucial task. The development of faster
 computers, the availability of affordable, high-quality video cameras, and the requirements for automated video analysis have made
-object tracking systems more and more common. In general, there are three main parts in the video analysis process: identifying the
-object, following its movement from frame to frame, and then analysing the object's behavior. Four major considerations are made
+object-tracking systems more and more common. In general, there are three main parts in the video analysis process: identifying the
+object, following its movement from frame to frame, and then analyzing the object's behavior. Four major considerations are made
 for object tracking: choosing an appropriate object representation, choosing tracking features, identifying objects, and tracking
 them. Object tracking algorithms are a key component of many applications in the real world, including autonomous surveillance,
 video indexing, and vehicle navigation. This gap is exploited by the project, which focuses on creating a motion-to-text converter
